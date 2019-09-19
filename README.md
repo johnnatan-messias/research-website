@@ -2,6 +2,8 @@
 
 A simple web template in PHP for researchers.
 
+Example: [http://johnnatan.me](http://johnnatan.me)
+
 ## What's New
 ----------
 
