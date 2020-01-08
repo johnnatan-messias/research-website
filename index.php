@@ -112,12 +112,10 @@
                   group. I am advised by <a href="http://www.mpi-sws.org/~gummadi/" target="_blank">Dr. Krishna P. Gummadi</a>.
                   <br>
                   <br>
-I completed my Master studies in Computer Science at the Universidade Federal de Minas Gerais (UFMG) with <a href="https://homepages.dcc.ufmg.br/~fabricio/" target="_blank">Dr.
-Fabrício Benevenuto</a> as my advisor. During my MSc, I also held research intern position at MPI-SWS (Max
-                  Planck Institute for Software Systems) in Saarbrücken/Germany. I studied Computer Science at Eötvös Loránd
-                  University - ELTE in Budapest/Hungary in 2013/2014 during my exchange program (Science Without Borders
-                  - CAPES). I completed my undergrad studies in Computer Science at the Universidade Federal de Ouro Preto (UFOP),
-                  in 2015.
+I completed my Master's degree in Computer Science at the Universidade Federal de Minas Gerais (UFMG) with <a href="https://homepages.dcc.ufmg.br/~fabricio/" target="_blank">Dr.
+Fabrício Benevenuto</a> as my advisor. During my MSc, I also held two research intern positions at MPI-SWS in Saarbrücken, Germany. I studied Computer Science at Eötvös Loránd
+                  University (ELTE) in Budapest, Hungary, in 2013/2014 during my exchange program (Science Without Borders
+                  - CAPES). I completed my undergraduate degree in Computer Science at the Universidade Federal de Ouro Preto (UFOP) in 2015.
                   <br>
                   <br>
                   <u>Interests</u>: Blockchains, Data Analysis, Sentiment Analysis, Social Networks.
@@ -132,9 +130,6 @@ Fabrício Benevenuto</a> as my advisor. During my MSc, I also held research inte
                   <br> My CV is available for download:
                   <a href="pdf/resume_eng_johnnatan_messias.pdf" target="_blank">
                     <i>in English</i>
-                  </a> |
-                  <a href="pdf/resume_ptbr_johnnatan_messias.pdf" target="_blank">
-                    <i>em Português</i>
                   </a>.
                   <br>
                   <i>Last update:
@@ -660,7 +655,7 @@ Fabrício Benevenuto</a> as my advisor. During my MSc, I also held research inte
                         target="_blank">
                         <span class="badge badge-light">Slides</span>
                       </a>
-                      <a href="http://www.dcc.ufmg.br/~fabricio/migration-dataset/" target="_blank">
+                      <a href="migration-dataset/" target="_blank">
                         <span class="badge badge-warning">Dataset</span>
                       </a>
                     </li>
@@ -1059,8 +1054,7 @@ Fabrício Benevenuto</a> as my advisor. During my MSc, I also held research inte
           </div>
           <div id="press_coverage" data-parent="#accordion" class="collapse">
             <div class="card-body">
-              <p>There has been some coverage of our recent research on important blogs, magazines, newspapers, and TV. I like
-                to keep a track of some of them (some in Portuguese). </p>
+              <p>Here is some coverage of my recent research on important blogs, magazines, and newspapers. </p>
               <h3>Gender and Race Inequalities in Twitter - paper on Web Intelligence'17</h3>
               <ul class="list-inline">
                 <li>White, Man, and Highly Followed: Gender and Race Inequalities in Twitter.</li>
